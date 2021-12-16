@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Thepowa753
-- 👀 I’m interested in **Security _ and _ home automation**
+**👀** I’m interested in **Security _ and _ home automation 👀** 
 
 <!---
 Thepowa753/Thepowa753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
