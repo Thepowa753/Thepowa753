@@ -1,4 +1,4 @@
-**👀** I’m interested in **Security _ and _ home automation 👀** 
+**👀   Cyber security `&&` Home automation    👀** 
 
 <!---
 Thepowa753/Thepowa753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
