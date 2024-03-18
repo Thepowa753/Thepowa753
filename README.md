@@ -14,7 +14,7 @@
 ![C#](https://img.shields.io/badge/C%23-111199?style=flat-square&logo=CSharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-885555?style=flat-square&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD500?style=flat-square&logo=JavaScript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=Linux&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> I usually work with
