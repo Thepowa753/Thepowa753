@@ -24,18 +24,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-721412?style=flat-square&logo=MQTT&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-444499?style=flat-square&logo=Telegram&logoColor=white)
 <br>
-![Adafruit](https://img.shields.io/badge/adafruit-000000?style=flat-square&logo=adafruit&logoColor=white)
+![Adafruit](https://img.shields.io/badge/Adafruit-000000?style=flat-square&logo=adafruit&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![espressif](https://img.shields.io/badge/espressif-664499?style=flat-square&logo=espressif&logoColor=white)
+![ESPressif](https://img.shields.io/badge/ESPressif-664499?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-449955?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-007000?style=flat-square&logo=Android&logoColor=white)
-![debian](https://img.shields.io/badge/Debian-E95420?style=flat-square&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-E95420?style=flat-square&logo=Fedora&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 <br>
 
